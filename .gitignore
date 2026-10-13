@@ -38,3 +38,8 @@ claude.md
 # Generated output (benchmarks, knowledge graphs)
 benchmark_output/
 graphify-out/
+
+# Oversized model/data artifacts (exceed GitHub's 100 MB limit — regenerate locally)
+*.last
+kaggle_r2/corpus_r2/corpus_r2.bin
+nsc-codec/artifacts/model.nsc
