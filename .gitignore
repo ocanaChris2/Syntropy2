@@ -18,3 +18,23 @@ tokenizer.json
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Agent tooling — Claude Code local config/state and instruction (fingerprint) markdown
+.claude/
+.claude.json
+.claude.local.md
+CLAUDE.md
+claude.md
+**/CLAUDE.md
+
+# Rust / Cargo build output
+**/target/
+*.rlib
+*.rmeta
+*.so
+*.d
+*.timestamp
+
+# Generated output (benchmarks, knowledge graphs)
+benchmark_output/
+graphify-out/
