@@ -1,0 +1,32 @@
+[
+ {
+  "path": "avi/sintel_mjpeg_pcm.avi",
+  "bytes": 1900368,
+  "crc": "a6225929",
+  "fmt": "avi",
+  "split": "holdout",
+  "new": 833524,
+  "secs": 3.261732816696167,
+  "ok": true,
+  "again": 0,
+  "xz": 1581168,
+  "zstd": 1688192,
+  "old": 1048495,
+  "oracle": null
+ },
+ {
+  "path": "avi/sintel_mpeg4asp_mp3.avi",
+  "bytes": 1483508,
+  "crc": "3d51fb6d",
+  "fmt": "avi",
+  "split": "dev",
+  "new": 1198357,
+  "secs": 4.4882142543792725,
+  "ok": true,
+  "again": 0,
+  "xz": 1281452,
+  "zstd": 1283818,
+  "old": 1221881,
+  "oracle": null
+ }
+]

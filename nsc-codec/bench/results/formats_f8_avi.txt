@@ -1,0 +1,13 @@
+== all files: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+avi        2     3.38   39.95%    32.91%   15.40%   12.17%        -               0.44
+TOTAL      2     3.38   39.95%    32.91%   15.40%   12.17%
+
+== holdout only: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+avi        1     1.90   56.14%    44.83%   16.80%   11.16%        -               0.58
+TOTAL      1     1.90   56.14%    44.83%   16.80%   11.16%
+
+files more than 0.3% larger than under nsc 0.3.1: 0
+files with a block coded a second time (a stream or bytes cost more modelled than not): 0
+roundtrip: 2/2 OK

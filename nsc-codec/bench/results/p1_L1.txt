@@ -1,0 +1,99 @@
+
+bits per byte (lower is better; * = best, ! = failed)
+file                                               size     nsc-1
+audio/chopin_nocturne21.wav                    10.58 MB    4.181*
+audio/debussy_gymnopedie.wav                    5.36 MB    3.339*
+audio/fd_audio-test-signal.wav                135.25 KB    5.252*
+audio/fd_bell.wav                              24.70 KB    4.949*
+audio/fd_complete.wav                         192.19 KB    4.280*
+audio/fd_dialog-warning.wav                    88.13 KB    3.596*
+audio/linuxmint-gdm.wav                        23.31 KB    4.850*
+audio/linuxmint-login.wav                     707.76 KB    4.581*
+audio/linuxmint-logout.wav                    708.64 KB    4.820*
+audio/satie_gymnopedie2.wav                    15.88 MB    4.305*
+= audio                                        33.70 MB     4.132
+
+deflate/art.png                                 1.59 MB    7.977*
+deflate/background.png                          1.36 MB    7.995*
+deflate/default-testpage.pdf                  129.37 KB    5.972*
+deflate/design.png                              1.24 MB    7.862*
+deflate/form_english.pdf                      276.12 KB    2.625*
+deflate/form_russian.pdf                      270.31 KB    2.424*
+deflate/gnu_test-amd64_jtreport-hotspot.tar…    2.49 MB    7.884*
+deflate/gz_changelogs.tar                       4.97 MB    6.182*
+deflate/ipscan.jar                              2.18 MB    7.502*
+deflate/portmaster.zip                          1.98 MB    7.092*
+deflate/report.docx                             1.16 MB    7.999*
+deflate/screenshot.png                        605.54 KB    7.965*
+deflate/sheet.xlsx                              2.18 MB    7.780*
+= deflate                                      20.42 MB     7.208
+
+exe/git.elf                                     4.07 MB    2.788*
+exe/libc.so.6                                   2.13 MB    2.546*
+exe/python3.12.elf                              8.02 MB    1.825*
+exe/zlib1_x64.dll                             137.22 KB    3.407*
+exe/zlib1_x86.dll                             135.69 KB    3.207*
+= exe                                          14.49 MB     2.229
+
+image/flat_art.bmp                              6.22 MB    1.237*
+image/photo.ppm                                 6.22 MB    1.417*
+image/photo.tga                                 6.22 MB    2.306*
+image/photo.tif                                 6.22 MB    1.031*
+image/photo_gray.pgm                            2.07 MB    2.224*
+image/photo_gray16.pgm                          1.04 MB    2.306*
+image/photo_rgb24.bmp                           6.22 MB    1.309*
+image/photo_rgba32.bmp                          8.29 MB    2.030*
+image/screenshot.bmp                            1.71 MB    2.353*
+= image                                        44.22 MB     1.657
+
+jpeg/baseline_0_jvasek_xmas_bokeh.jpg         301.97 KB    7.516*
+jpeg/baseline_1_Beginner's Tutorial_Image_0…  114.36 KB    7.357*
+jpeg/baseline_2_Beginner's Tutorial_Image_0…  114.49 KB    7.251*
+jpeg/baseline_3_DownloadVS2010.jpg            167.56 KB    4.680*
+jpeg/baseline_4_DownloadVS2019.jpg            231.80 KB    4.865*
+jpeg/baseline_5_DownloadVSBuildTools.jpg      187.79 KB    4.371*
+jpeg/progressive_0_jbaer_wave.jpg             221.93 KB    7.441*
+jpeg/progressive_1_jleung_confetti.jpg          1.46 MB    7.837*
+jpeg/progressive_2_jpanchal_cubes.jpg           1.31 MB    7.142*
+jpeg/progressive_3_jpanchal_curves.jpg        586.03 KB    7.193*
+jpeg/progressive_4_jpanchal_gold.jpg            1.54 MB    6.614*
+jpeg/progressive_5_jpanchal_hearts.jpg          2.49 MB    6.981*
+= jpeg                                          8.72 MB     6.980
+
+mixed/mixed.tar                                13.90 MB    2.864*
+mixed/nsc_src.tar                               4.51 MB    1.313*
+= mixed                                        18.40 MB     2.484
+
+silesia/dickens                                10.19 MB    1.794*
+silesia/mozilla                                51.22 MB    1.967*
+silesia/mr                                      9.97 MB    1.758*
+silesia/nci                                    33.55 MB    0.336*
+silesia/ooffice                                 6.15 MB    2.731*
+silesia/osdb                                   10.09 MB    1.847*
+silesia/reymont                                 6.63 MB    1.234*
+silesia/samba                                  21.61 MB    1.193*
+silesia/sao                                     7.25 MB    4.340*
+silesia/webster                                41.46 MB    1.273*
+silesia/x-ray                                   8.47 MB    3.494*
+silesia/xml                                     5.35 MB    0.502*
+= silesia                                     211.94 MB     1.575
+
+table/inventory.sqlite                          5.00 MB    2.159*
+table/records.bin                               5.28 MB    2.255*
+table/sales.csv                                 4.16 MB    1.343*
+= table                                        14.44 MB     1.959
+
+text/app.log                                    4.50 MB    0.580*
+text/enwik_10M.txt                             10.00 MB    1.810*
+text/enwik_1M.txt                               1.00 MB    1.873*
+text/python_src.py                            133.78 KB    1.797*
+text/rust_src.rs                              172.36 KB    1.628*
+text/tokenizer.json                           538.94 KB    0.654*
+text/whitepaper.md                             32.98 KB    2.577*
+= text                                         16.37 MB     1.438
+
+TOTAL                                         382.70 MB     2.310
+  compressed                                            110.52 MB
+  enc MB/s                                                   0.40
+  dec MB/s                                                   0.79
+  peak RSS                                                   89MB

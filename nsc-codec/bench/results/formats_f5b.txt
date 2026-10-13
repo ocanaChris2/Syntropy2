@@ -1,0 +1,19 @@
+== all files: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+aac        3     1.95   16.73%     3.81%    1.65%    2.49%        -               0.46
+flac       4    37.71    0.85%     0.85%    0.30%    0.38%        -               0.79
+m4a       12     6.66   13.44%     0.58%    1.06%    1.57%        -               0.50
+mp3       23    29.63   14.97%     3.81%    1.50%    2.05%        -               0.52
+ogg       10     3.75    2.57%     2.47%    1.63%    1.61%        -               0.33
+TOTAL     52    79.71    7.62%     2.08%    0.90%    1.21%
+
+== holdout only: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+flac       1     8.14    1.56%     1.54%    0.31%    0.59%        -               0.24
+m4a        4     3.45   12.90%    -0.00%    0.66%    0.92%        -               0.51
+mp3        7     2.70   16.45%     4.40%    2.41%    2.96%        -               0.48
+ogg        2     0.71    0.46%     0.39%    0.29%    0.30%        -               0.98
+TOTAL     14    14.99    6.80%     1.65%    0.77%    1.08%
+
+files more than 0.3% larger than under nsc 0.3.1: 0
+roundtrip: 52/52 OK

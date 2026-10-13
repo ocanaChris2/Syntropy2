@@ -1,0 +1,21 @@
+{
+ "formats/elf/VBoxClient": 195528,
+ "formats/elf/Xephyr": 687023,
+ "formats/elf/Xvfb": 580043,
+ "formats/elf/Xwayland": 650771,
+ "formats/elf/libLerc.a": 129668,
+ "corpus/exe/git.elf": 1179319,
+ "corpus/exe/libc.so.6": 596727,
+ "corpus/exe/python3.12.elf": 1548101,
+ "corpus/exe/zlib1_x64.dll": 54301,
+ "corpus/exe/zlib1_x86.dll": 50046,
+ "formats/pe/activeds.dll": 88213,
+ "formats/pe/actxprxy.dll": 709774,
+ "formats/pe/adsldp.dll": 94027,
+ "formats/pe/advapi32.dll": 242040,
+ "formats/pe/advpack.dll": 88348,
+ "formats/pe/amstream.dll": 206314,
+ "formats/pe/cmd.exe": 174953,
+ "formats/pe/conhost.exe": 53824,
+ "corpus/silesia/ooffice": 1632468
+}

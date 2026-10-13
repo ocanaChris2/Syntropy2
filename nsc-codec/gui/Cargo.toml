@@ -1,0 +1,26 @@
+# Native desktop GUI for the Syntropy2 / nsc codec.
+#
+# Deliberately its OWN standalone crate (note the empty [workspace] table): it depends on the
+# eframe/egui GUI stack, which we keep entirely out of the pristine, dependency-free `nsc` codec
+# crate one level up. The GUI never links the codec — it drives the installed `nsc` binary over its
+# CLI, so every compress/decompress path stays byte-for-byte the CLI.
+[package]
+name = "nsc-gui"
+version = "0.1.0"
+edition = "2021"
+description = "Native desktop app for compressing files with the Syntropy2 neural codec"
+
+[[bin]]
+name = "nsc-gui"
+path = "src/main.rs"
+
+[dependencies]
+eframe = "0.35"   # egui + native windowing (winit/glow)
+rfd = "0.15"      # native file-open dialog
+
+[profile.release]
+opt-level = 2
+
+# Standalone workspace root: keeps this crate's heavy dependency tree and its target/ dir isolated
+# from the codec crate above, and stops cargo from trying to fold the two into one workspace.
+[workspace]

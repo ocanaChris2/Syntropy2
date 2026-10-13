@@ -1,0 +1,20 @@
+# Recursive trainer runtime artifacts
+runs/
+# Cached classical features / tables
+*.npy
+*.npz
+# Datasets & exports
+data/
+enwik8
+enwik8.zip
+export/
+*.onnx
+*.pt
+*.pt.last
+*.pt.tmp
+# Tokenizers / checkpoints written next to the code
+tokenizer.json
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

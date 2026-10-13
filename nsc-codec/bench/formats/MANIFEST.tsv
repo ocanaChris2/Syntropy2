@@ -1,0 +1,227 @@
+path	bytes	crc32	format	origin	source	licence	split
+aac/chopin_adts128.aac	737728	5d9fc81e	aac	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg aac (ADTS)	CC (Wikimedia Commons source)	dev
+aac/debussy_adts128.aac	473425	ffcd234d	aac	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg aac (ADTS)	CC (Wikimedia Commons source)	dev
+aac/satie_adts128.aac	741568	2028c292	aac	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg aac (ADTS)	CC (Wikimedia Commons source)	dev
+apk/ApiDemos.apk	5240580	215c6c0a	apk	local	/home/christian/Android/Sdk/system-images/android-24/google_apis_playstore/x86/data/app/ApiDemos/ApiDemos.apk	system/application file	dev
+avi/sintel_mjpeg_pcm.avi	1900368	a6225929	avi	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	holdout
+avi/sintel_mpeg4asp_mp3.avi	1483508	3d51fb6d	avi	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+bin/C-os-catalog.xb	6291456	c24034a5	bin	local	first 6 MB of /var/cache/swcatalog/cache/C-os-catalog.xb	system/application file	holdout
+bin/GeoIPv6.dat	6291456	b0e29577	bin	local	first 6 MB of /usr/share/GeoIP/GeoIPv6.dat	system/application file	holdout
+bin/classes.jsa	6291456	8d40430a	bin	local	first 6 MB of /usr/lib/jvm/java-21-openjdk-amd64/lib/server/classes.jsa	system/application file	dev
+bin/geoipv4.mmdb	6291456	f6c2b509	bin	local	first 6 MB of /var/lib/portmaster/intel/geoipv4.mmdb	system/application file	holdout
+bin/hwdb.bin	6291456	daee0879	bin	local	first 6 MB of /usr/lib/udev/hwdb.bin	system/application file	holdout
+bin/icudtl.dat	6291456	0c44bd27	bin	local	first 6 MB of /usr/share/code/icudtl.dat	system/application file	dev
+bin/locale-archive	6291456	e417c550	bin	local	first 6 MB of /usr/lib/locale/locale-archive	system/application file	dev
+bin/magic.mgc	6291456	6e417582	bin	local	first 6 MB of /usr/lib/file/magic.mgc	system/application file	dev
+bin/metadata.xmlb	6291456	55a43cb5	bin	local	first 6 MB of /var/cache/fwupd/metadata.xmlb	system/application file	holdout
+bin/pkgcache.bin	6291456	82365148	bin	local	first 6 MB of /var/cache/apt/pkgcache.bin	system/application file	dev
+bin/v8_context_snapshot.bin	6291456	9d01624a	bin	local	first 6 MB of /usr/share/spotify/v8_context_snapshot.bin	system/application file	holdout
+csv/birdstrikes.csv	1223329	2be119be	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+csv/co2-concentration.csv	18547	1fefe3e8	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+csv/flights-airport.csv	65572	2e15646e	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+csv/gapminder-health-income.csv	8605	e6f1bc6b	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+csv/iab.csv	381459	557935f8	csv	local	/usr/share/ieee-data/iab.csv	system/application file	dev
+csv/mam.csv	481665	8b8c8a76	csv	local	/usr/share/ieee-data/mam.csv	system/application file	holdout
+csv/oui.csv	3018430	3b792a3a	csv	local	/usr/share/ieee-data/oui.csv	system/application file	holdout
+csv/oui36.csv	456416	51d4e1a7	csv	local	/usr/share/ieee-data/oui36.csv	system/application file	holdout
+csv/seattle-weather.csv	48219	82b9f60c	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+csv/sp500.csv	2305	747d3ba7	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+csv/stocks.csv	12245	20751993	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+csv/weather.csv	121417	4e9cadbd	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+csv/zip_sums.csv	342934	ee533937	csv	local	/usr/share/go-1.22/src/cmd/go/internal/modfetch/zip_sum_test/testdata/zip_sums.csv	system/application file	dev
+csv/zipcodes.csv	2018388	25959278	csv	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+dex/reverse_daemon.dex	2370368	f04d9087	dex	local	/home/christian/.local/share/JetBrains/Toolbox/apps/android-studio/plugins/directaccess/resources/reverse_daemon.dex	system/application file	dev
+elf/VBoxClient	691384	8817289b	elf	local	/usr/bin/VBoxClient	system/application file	dev
+elf/Xephyr	2446976	892feebf	elf	local	/usr/bin/Xephyr	system/application file	dev
+elf/Xvfb	2064864	33786c82	elf	local	/usr/bin/Xvfb	system/application file	dev
+elf/Xwayland	2241784	1d8e4993	elf	local	/usr/bin/Xwayland	system/application file	dev
+elf/libICE.a	166230	dc3a43cf	elf	local	/usr/lib/x86_64-linux-gnu/libICE.a	system/application file	dev
+elf/libLerc.a	952418	59fe6cf8	elf	local	/usr/lib/x86_64-linux-gnu/libLerc.a	system/application file	dev
+elf/libSM.a	47710	c9c607e0	elf	local	/usr/lib/x86_64-linux-gnu/libSM.a	system/application file	holdout
+flac/chopin_wikimedia.flac	27020838	d5dd2eac	flac	download	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac	CC (Wikimedia Commons)	dev
+flac/debussy_flac5.flac	1280757	45cf0efd	flac	generated	Debussy WAV via libFLAC	CC (Wikimedia Commons source)	dev
+flac/debussy_flac8.flac	1276126	fe7e7ce1	flac	generated	Debussy WAV via libFLAC	CC (Wikimedia Commons source)	dev
+flac/satie_wikimedia.flac	8136884	dc8f5ff7	flac	download	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac	CC (Wikimedia Commons)	holdout
+font/DejaVuMathTeXGyre.ttf	577192	7ba1369a	font	local	/usr/share/fonts/truetype/dejavu/DejaVuMathTeXGyre.ttf	system/application file	dev
+font/DejaVuSans-Bold.ttf	708920	7a9ea8e8	font	local	/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf	system/application file	holdout
+font/MathJax_AMS-Regular.woff	40808	aebabe26	font	local	/home/christian/.local/share/JetBrains/Toolbox/apps/intellij-idea/plugins/jupyter-plugin/jupyter-web/MathJax_AMS-Regular.woff	system/application file	dev
+font/MathJax_Fraktur-Bold.woff	22340	f9a7d539	font	local	/home/christian/.local/share/JetBrains/Toolbox/apps/intellij-idea/plugins/jupyter-plugin/jupyter-web/MathJax_Fraktur-Bold.woff	system/application file	dev
+font/fa-brands-400.woff2	76736	63223e40	font	local	/home/christian/.local/share/JetBrains/Toolbox/apps/intellij-idea/plugins/jupyter-plugin/jupyter-web/assets/webfonts/fa-brands-400.woff2	system/application file	dev
+font/fa-solid-900.woff2	78268	0e0e1ae7	font	local	/home/christian/.local/share/JetBrains/Toolbox/apps/intellij-idea/plugins/jupyter-plugin/jupyter-web/assets/webfonts/fa-solid-900.woff2	system/application file	holdout
+font/ipag.ttf	6235344	e98a36a7	font	local	/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf	system/application file	dev
+font/ipagp.ttf	6235712	37b2bd90	font	local	/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf	system/application file	dev
+font/unifont.otf	5105304	37a96a3e	font	local	/usr/share/fonts/opentype/unifont/unifont.otf	system/application file	dev
+font/unifont_csur.otf	573348	0b712053	font	local	/usr/share/fonts/opentype/unifont/unifont_csur.otf	system/application file	dev
+gif/Newtons_cradle_animation_book_2.gif	308156	2c8a5f31	gif	download	https://upload.wikimedia.org/wikipedia/commons/d/d3/Newtons_cradle_animation_book_2.gif	Wikimedia Commons (see file page)	dev
+gif/Rotating_earth_(large).gif	1001718	e14e453f	gif	download	https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif	Wikimedia Commons (see file page)	holdout
+gif/bigapple.gif	35287	452dd54b	gif	local	/usr/lib/libreoffice/share/gallery/bigapple.gif	system/application file	dev
+gif/demo.gif	4631886	b9781f4a	gif	local	/usr/share/antigravity/resources/app/node_modules/cytoscape-fcose/demo/demo.gif	system/application file	holdout
+gif/flowers.gif	9333	fad24d32	gif	local	/usr/lib/libreoffice/share/gallery/flowers.gif	system/application file	dev
+gif/incrementalConstraints.gif	3175063	856c2186	gif	local	/usr/share/antigravity/resources/app/node_modules/cytoscape-fcose/demo/incrementalConstraints.gif	system/application file	dev
+gif/marchingants.gif	10298	711c8d59	gif	local	/usr/lib/libreoffice/share/tipoftheday/marchingants.gif	system/application file	dev
+gif/njplot.gif	24084	d0d497e8	gif	local	/usr/share/app-install/icons/njplot.gif	system/application file	dev
+gif/sintel_anim.gif	751999	b95401fa	gif	generated	sintel trailer via ffmpeg palettegen	CC BY 3.0 (Blender Foundation source)	holdout
+ico/favicon.ico	34494	f3b5ca12	ico	local	/usr/share/antigravity/resources/app/extensions/github-authentication/media/favicon.ico	system/application file	dev
+ico/icon.ico	47321	26ef7b75	ico	local	/opt/marktext/resources/icons/icon.ico	system/application file	dev
+ico/icon.ico	47321	26ef7b75	ico	local	/opt/marktext/resources/static/icon.ico	system/application file	dev
+ico/md.ico	104936	c261754e	ico	local	/opt/marktext/resources/icons/md.ico	system/application file	dev
+iso/VBoxGuestAdditions.iso	53141504	07c59f8d	iso	local	/usr/share/virtualbox/VBoxGuestAdditions.iso	system/application file	dev
+json/api.schema.json	1718855	1dd295fd	json	local	/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-sdk-linux-x64/schemas/api.schema.json	system/application file	dev
+json/cars.json	100492	e2d61a5d	json	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+json/earthquakes.json	1219853	0c9b54dd	json	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+json/flights-20k.json	1784867	45ba8f68	json	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+json/gapminder.json	75201	b82c25b2	json	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	dev
+json/iso_639-3.json	874782	c9ac4613	json	local	/usr/share/iso-codes/json/iso_639-3.json	system/application file	dev
+json/movies.json	1399981	fe5e2d4d	json	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	holdout
+json/nls.metadata.json	2510948	3ba2d488	json	local	/usr/share/code/resources/app/out/nls.metadata.json	system/application file	dev
+json/platform.tmLanguage.json	561565	eb327936	json	local	/usr/share/code/resources/app/extensions/cpp/syntaxes/platform.tmLanguage.json	system/application file	holdout
+json/protocol.json	1262133	4651c3ee	json	local	/usr/share/antigravity/resources/app/node_modules/chrome-remote-interface/lib/protocol.json	system/application file	dev
+json/telemetry-core.json	772738	2ebea481	json	local	/usr/share/code/resources/app/telemetry-core.json	system/application file	dev
+json/us-10m.json	642361	b7a5226c	json	download	github.com/vega/vega-datasets	sample data (BSD-3-Clause repository; public sources)	holdout
+log/Android_2k.log	279076	2975a430	log	download	github.com/logpai/loghub	loghub sample (free for research use)	holdout
+log/Apache_2k.log	171239	8fc8aa6f	log	download	github.com/logpai/loghub	loghub sample (free for research use)	dev
+log/BGL_2k.log	317150	7d84bde4	log	download	github.com/logpai/loghub	loghub sample (free for research use)	dev
+log/HDFS_2k.log	287848	f46c7360	log	download	github.com/logpai/loghub	loghub sample (free for research use)	dev
+log/Linux_2k.log	216485	67d73a98	log	download	github.com/logpai/loghub	loghub sample (free for research use)	dev
+log/OpenSSH_2k.log	225216	dec724ad	log	download	github.com/logpai/loghub	loghub sample (free for research use)	holdout
+log/Spark_2k.log	196268	3537448c	log	download	github.com/logpai/loghub	loghub sample (free for research use)	dev
+log/Zookeeper_2k.log	279891	37c9305a	log	download	github.com/logpai/loghub	loghub sample (free for research use)	dev
+log/dpkg.log.1	181752	42aa1557	log	local	/var/log/dpkg.log.1	system/application file	dev
+m4a/chopin_aac128.m4a	732930	92a1b2d7	m4a	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg aac	CC (Wikimedia Commons source)	holdout
+m4a/chopin_aac256.m4a	1416399	1732a651	m4a	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg aac	CC (Wikimedia Commons source)	holdout
+m4a/chopin_aac64_mono.m4a	371601	54774cab	m4a	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg aac	CC (Wikimedia Commons source)	holdout
+m4a/debussy_aac128.m4a	470296	fa6c0b91	m4a	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg aac	CC (Wikimedia Commons source)	dev
+m4a/debussy_aac256.m4a	924120	9b325c4e	m4a	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg aac	CC (Wikimedia Commons source)	holdout
+m4a/debussy_aac64_mono.m4a	239145	a35071b1	m4a	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg aac	CC (Wikimedia Commons source)	dev
+m4a/satie_aac128.m4a	736773	133c064f	m4a	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg aac	CC (Wikimedia Commons source)	dev
+m4a/satie_aac256.m4a	1332804	85697869	m4a	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg aac	CC (Wikimedia Commons source)	dev
+m4a/satie_aac64_mono.m4a	372549	457ff07f	m4a	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg aac	CC (Wikimedia Commons source)	dev
+m4a/steam_at_mention.m4a	29677	ad8b785f	m4a	local	/home/christian/.local/share/Steam/steamui/sounds/steam_at_mention.m4a	system/application file	dev
+m4a/steam_chatroom_notification.m4a	23212	fc523448	m4a	local	/home/christian/.local/share/Steam/steamui/sounds/steam_chatroom_notification.m4a	system/application file	dev
+m4a/ui_steam_message_old_smooth.m4a	9173	1b14e8c8	m4a	local	/home/christian/.local/share/Steam/steamui/sounds/ui_steam_message_old_smooth.m4a	system/application file	dev
+mkv/blank.mkv	701092	603dafb0	mkv	local	/home/christian/.local/share/Steam/steamapps/common/Proton - Experimental/files/share/media/blank.mkv	system/application file	dev
+mkv/sintel_x264_aac.mkv	836941	450d098f	mkv	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mkv/sintel_x264_cavlc_mp3.mkv	1059328	6c39cd35	mkv	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mkv/sintel_x264_live.mkv	686599	7a8b5265	mkv	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mov/sintel_x264.mov	839476	87da09aa	mov	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mp3/art_of_war_01-02_sun_tzu.mp3	8113642	0d466e87	mp3	download	archive.org/art_of_war_librivox	public domain (LibriVox)	dev
+mp3/art_of_war_03-04_sun_tzu_64kb.mp3	3723859	1e09d786	mp3	download	archive.org/art_of_war_librivox	public domain (LibriVox)	dev
+mp3/break.mp3	38080	af484770	mp3	local	/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/break.mp3	system/application file	holdout
+mp3/chatEditModifiedFile.mp3	20800	c2bc211e	mp3	local	/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatEditModifiedFile.mp3	system/application file	holdout
+mp3/chatUserActionRequired.mp3	30592	ad5ee272	mp3	local	/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3	system/application file	dev
+mp3/chopin_cbr128.mp3	721333	adcb6444	mp3	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/chopin_cbr320.mp3	1802803	33c9b00a	mp3	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/chopin_cbr32_8k.mp3	181219	55c0d177	mp3	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	holdout
+mp3/chopin_mono64_22k.mp3	361052	f7e79f1c	mp3	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	holdout
+mp3/chopin_vbr2.mp3	844109	0b0d6278	mp3	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/clear.mp3	26560	ceed663f	mp3	local	/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/clear.mp3	system/application file	dev
+mp3/debussy_cbr128.mp3	486965	4bb9928a	mp3	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/debussy_cbr320.mp3	1217349	ad026835	mp3	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/debussy_cbr32_8k.mp3	122444	f6e38ecc	mp3	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/debussy_mono64_22k.mp3	243713	9547c935	mp3	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/debussy_tagged_cover.mp3	1032473	59e7a6b5	mp3	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/debussy_vbr2.mp3	530084	b5bf804b	mp3	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	holdout
+mp3/prideandprejudice_06_austen_64kb.mp3	6217856	6d758bed	mp3	download	archive.org/pride_and_prejudice_librivox	public domain (LibriVox)	dev
+mp3/satie_cbr128.mp3	721174	8d50d790	mp3	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	holdout
+mp3/satie_cbr320.mp3	1802644	5ffd4c17	mp3	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/satie_cbr32_8k.mp3	181060	92259324	mp3	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/satie_mono64_22k.mp3	360893	1bcdf98c	mp3	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	dev
+mp3/satie_vbr2.mp3	848665	c7434d1b	mp3	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg/libmp3lame	CC (Wikimedia Commons source)	holdout
+mp4/Reset_position.mp4	240740	dd5fae6d	mp4	local	/home/christian/Android/Sdk/emulator/resources/macroPreviews/Reset_position.mp4	system/application file	dev
+mp4/Track_horizontal_plane.mp4	972478	6a7c42d8	mp4	local	/home/christian/Android/Sdk/emulator/resources/macroPreviews/Track_horizontal_plane.mp4	system/application file	dev
+mp4/Track_vertical_plane.mp4	631994	fa8828ef	mp4	local	/home/christian/Android/Sdk/emulator/resources/macroPreviews/Track_vertical_plane.mp4	system/application file	holdout
+mp4/Walk_to_image_room.mp4	950115	d5870734	mp4	local	/home/christian/Android/Sdk/emulator/resources/macroPreviews/Walk_to_image_room.mp4	system/application file	dev
+mp4/default.mp4	500254	cb23ebc6	mp4	local	/home/christian/Android/Sdk/emulator/resources/default.mp4	system/application file	dev
+mp4/sintel_av1.mp4	412482	1bf24852	mp4	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mp4/sintel_trailer-480p.mp4	4372373	61accd5e	mp4	download	download.blender.org/durian/trailer	CC BY 3.0 (Blender Foundation)	dev
+mp4/sintel_x264_baseline_cavlc.mp4	1171188	9b466e80	mp4	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mp4/sintel_x264_fragmented.mp4	837610	b9c40203	mp4	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mp4/sintel_x264_high_cabac.mp4	839526	b42e36fd	mp4	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mp4/sintel_x264_high_faststart.mp4	1148270	d1cd1c69	mp4	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+mp4/sintel_x265_hevc.mp4	486873	46759305	mp4	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+ogg/alarm-clock-elapsed.oga	73696	257aad61	ogg	local	/usr/share/sounds/freedesktop/stereo/alarm-clock-elapsed.oga	system/application file	dev
+ogg/chopin_opus96.opus	663435	0b724fba	ogg	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg	CC (Wikimedia Commons source)	holdout
+ogg/chopin_vorbis_q5.ogg	744030	33a76f8c	ogg	generated	Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac via ffmpeg	CC (Wikimedia Commons source)	dev
+ogg/debussy_opus96.opus	397770	fd3fc823	ogg	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg	CC (Wikimedia Commons source)	dev
+ogg/debussy_vorbis_q5.ogg	467808	856c9241	ogg	generated	Debussy_Gymnopedie_1%2C_arrangement_of_Satie%E2%80%99s_Gymnopedie_3.wav via ffmpeg	CC (Wikimedia Commons source)	dev
+ogg/desktop-login.ogg	61490	52329304	ogg	local	/usr/share/sounds/LinuxMint/stereo/desktop-login.ogg	system/application file	dev
+ogg/desktop-logout.ogg	53969	c1942047	ogg	local	/usr/share/sounds/LinuxMint/stereo/desktop-logout.ogg	system/application file	dev
+ogg/phone-incoming-call.ogg	48120	30e5b30e	ogg	local	/usr/share/sounds/LinuxMint/stereo/phone-incoming-call.ogg	system/application file	holdout
+ogg/satie_opus96.opus	573508	4a950df3	ogg	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg	CC (Wikimedia Commons source)	dev
+ogg/satie_vorbis_q5.ogg	670062	1bcd4f56	ogg	generated	Satie_Gymnopedie_No_2_performed_by_Michael_Laucke.flac via ffmpeg	CC (Wikimedia Commons source)	dev
+pak/af.pak	571965	d43232cd	pak	local	/opt/Obsidian/locales/af.pak	system/application file	dev
+pak/chrome_100_percent.pak	115176	1f3c9da6	pak	local	/opt/Obsidian/chrome_100_percent.pak	system/application file	dev
+pak/chrome_200_percent.pak	188186	6c2ee47a	pak	local	/opt/Obsidian/chrome_200_percent.pak	system/application file	dev
+pdf/default-testpage.pdf	129370	ce119a39	pdf	local	/usr/share/cups/data/default-testpage.pdf	system/application file	dev
+pdf/form_english.pdf	276117	d0c19fa3	pdf	local	/usr/share/cups/data/form_english.pdf	system/application file	dev
+pdf/form_russian.pdf	270308	6c09c3e3	pdf	local	/usr/share/cups/data/form_russian.pdf	system/application file	dev
+pdf/manual.pdf	295259	64fde06b	pdf	local	/usr/share/doc/printer-driver-foo2zjs/manual.pdf	system/application file	dev
+pdf/shared-mime-info-spec.pdf	147924	a65e1fad	pdf	local	/usr/share/doc/shared-mime-info/shared-mime-info-spec.pdf	system/application file	dev
+pe/activeds.dll	508867	811d35bb	pe	local	/usr/lib/x86_64-linux-gnu/wine/x86_64-windows/activeds.dll	system/application file	dev
+pe/actxprxy.dll	5897941	a6c0cf92	pe	local	/usr/lib/x86_64-linux-gnu/wine/x86_64-windows/actxprxy.dll	system/application file	dev
+pe/adsldp.dll	493072	31a1bd06	pe	local	/usr/lib/x86_64-linux-gnu/wine/x86_64-windows/adsldp.dll	system/application file	holdout
+pe/advapi32.dll	1412337	8cc22f05	pe	local	/usr/lib/x86_64-linux-gnu/wine/x86_64-windows/advapi32.dll	system/application file	dev
+pe/advpack.dll	474874	02130434	pe	local	/usr/lib/x86_64-linux-gnu/wine/x86_64-windows/advpack.dll	system/application file	dev
+pe/amstream.dll	1119138	47bb184a	pe	local	/usr/lib/x86_64-linux-gnu/wine/x86_64-windows/amstream.dll	system/application file	dev
+pe/cmd.exe	1159067	43cdd9e0	pe	local	/home/christian/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib/wine/x86_64-windows/cmd.exe	system/application file	dev
+pe/conhost.exe	325493	b54253d4	pe	local	/home/christian/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib/wine/x86_64-windows/conhost.exe	system/application file	dev
+pyc/_collections_abc.cpython-312.pyc	45912	5057177a	pyc	local	/usr/lib/python3.12/__pycache__/_collections_abc.cpython-312.pyc	system/application file	dev
+pyc/_osx_support.cpython-312.pyc	17731	ecf2bdd3	pyc	local	/usr/lib/python3.12/__pycache__/_osx_support.cpython-312.pyc	system/application file	dev
+pyc/_pydatetime.cpython-312.pyc	94193	739bda86	pyc	local	/usr/lib/python3.12/__pycache__/_pydatetime.cpython-312.pyc	system/application file	dev
+pyc/_pydecimal.cpython-312.pyc	227807	bcc85acb	pyc	local	/usr/lib/python3.12/__pycache__/_pydecimal.cpython-312.pyc	system/application file	dev
+pyc/_pyio.cpython-312.pyc	110269	cb5587c8	pyc	local	/usr/lib/python3.12/__pycache__/_pyio.cpython-312.pyc	system/application file	dev
+pyc/_strptime.cpython-312.pyc	24116	2c00903e	pyc	local	/usr/lib/python3.12/__pycache__/_strptime.cpython-312.pyc	system/application file	holdout
+sqlite/UserManual.qch	8617984	e7f6d152	sqlite	local	/usr/share/doc/virtualbox-7.2/UserManual.qch	system/application file	dev
+sqlite/UserManual.qhc	294912	5b5cf90d	sqlite	local	/usr/share/doc/virtualbox-7.2/UserManual.qhc	system/application file	holdout
+sqlite/commands.db	4046848	e7077761	sqlite	local	/var/lib/command-not-found/commands.db	system/application file	dev
+sqlite/pending.db	102400	9a2c3970	sqlite	local	/var/lib/fwupd/pending.db	system/application file	dev
+sqlite/places.sqlite	5242880	5f4fecd9	sqlite	local	/usr/share/webapp-manager/firefox/profile/places.sqlite	system/application file	dev
+sqlite/quirks.db	8155136	0c23e2e4	sqlite	local	/var/cache/fwupd/quirks.db	system/application file	dev
+sqlite/transactions.db	98304	d5491b85	sqlite	local	/var/lib/PackageKit/transactions.db	system/application file	dev
+tiff/_usr_lib_GNUstep_Applications_Gridlock.app_Resources_Gridlock.tiff	49356	c2a5d665	tiff	local	/usr/share/app-install/icons/_usr_lib_GNUstep_Applications_Gridlock.app_Resources_Gridlock.tiff	system/application file	dev
+tiff/_usr_lib_GNUstep_Applications_PRICE.app_Resources_price-icon-os.tiff	33052	21c8e8f2	tiff	local	/usr/share/app-install/icons/_usr_lib_GNUstep_Applications_PRICE.app_Resources_price-icon-os.tiff	system/application file	dev
+tiff/_usr_lib_GNUstep_Applications_Poe.app_Resources_Poe.tiff	26368	83d85049	tiff	local	/usr/share/app-install/icons/_usr_lib_GNUstep_Applications_Poe.app_Resources_Poe.tiff	system/application file	holdout
+tiff/photo_packbits.tif	3664934	8e56a9d0	tiff	generated	photo.ppm via PIL (packbits)	derived from corpus image	holdout
+tiff/photo_tiff_deflate.tif	2307302	665fce2c	tiff	generated	photo.ppm via PIL (tiff_deflate)	derived from corpus image	dev
+tiff/photo_tiff_lzw.tif	3227080	0f851cb6	tiff	generated	photo.ppm via PIL (tiff_lzw)	derived from corpus image	dev
+ts/sintel_x264_aac.ts	940000	28e102ce	ts	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+wasm/external_ingest_utils_bg.wasm	1237265	4354fa5b	wasm	local	/usr/share/code/resources/app/extensions/copilot/dist/external_ingest_utils_bg.wasm	system/application file	dev
+wasm/tree-sitter-c-sharp.wasm	5917000	5c60bd2b	wasm	local	/usr/share/code/resources/app/extensions/copilot/dist/tree-sitter-c-sharp.wasm	system/application file	holdout
+wasm/tree-sitter-cpp.wasm	3434931	9bce19f3	wasm	local	/usr/share/code/resources/app/extensions/copilot/dist/tree-sitter-cpp.wasm	system/application file	dev
+webm/bigpicture_startup.webm	1338011	a6ca7c50	webm	local	/home/christian/.local/share/Steam/steamui/movies/bigpicture_startup.webm	system/application file	dev
+webm/controller_generic_mouse_move_trigger_click.webm	476126	7e191fac	webm	local	/home/christian/.local/share/Steam/steamui/movies/controller_generic_mouse_move_trigger_click.webm	system/application file	dev
+webm/controller_generic_thumbstick_move.webm	498816	4a39cd0e	webm	local	/home/christian/.local/share/Steam/steamui/movies/controller_generic_thumbstick_move.webm	system/application file	holdout
+webm/sintel_vp8_vorbis.webm	1359164	a1f35bef	webm	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+webm/sintel_vp9_opus.webm	4576445	bf92de84	webm	generated	sintel trailer via ffmpeg	CC BY 3.0 (Blender Foundation source)	dev
+webp/art_lossless.webp	992906	f6b6a138	webp	generated	art.png via ffmpeg/libwebp	derived from corpus image	holdout
+webp/art_lossy75.webp	36096	7df6261f	webp	generated	art.png via ffmpeg/libwebp	derived from corpus image	holdout
+webp/cubes_lossless.webp	5420464	c4005541	webp	generated	progressive_2_jpanchal_cubes.jpg via ffmpeg/libwebp	derived from corpus image	dev
+webp/cubes_lossy75.webp	243472	f9423ce5	webp	generated	progressive_2_jpanchal_cubes.jpg via ffmpeg/libwebp	derived from corpus image	dev
+webp/land_back.webp	18592	0e2d6bc0	webp	local	/home/christian/Android/Sdk/skins/galaxy_nexus/land_back.webp	system/application file	dev
+webp/land_back.webp	18592	0e2d6bc0	webp	local	/home/christian/Android/Sdk/skins/nexus_10/land_back.webp	system/application file	dev
+webp/land_fore.webp	21722	c2561445	webp	local	/home/christian/Android/Sdk/skins/nexus_10/land_fore.webp	system/application file	dev
+webp/port_back.webp	18840	9f2f847b	webp	local	/home/christian/Android/Sdk/skins/galaxy_nexus/port_back.webp	system/application file	dev
+webp/port_back.webp	18840	9f2f847b	webp	local	/home/christian/Android/Sdk/skins/nexus_10/port_back.webp	system/application file	dev
+webp/port_fore.webp	19220	d5bfdcd4	webp	local	/home/christian/Android/Sdk/skins/nexus_10/port_fore.webp	system/application file	dev
+webp/screenshot_lossless.webp	354716	c69b38d5	webp	generated	screenshot.png via ffmpeg/libwebp	derived from corpus image	dev
+webp/screenshot_lossy75.webp	64162	6518671b	webp	generated	screenshot.png via ffmpeg/libwebp	derived from corpus image	holdout
+xcursor/left_ptr_watch	4146256	90342c61	xcursor	local	/usr/share/icons/Yaru/cursors/left_ptr_watch	system/application file	dev
+xcursor/wait	4146256	f20f0252	xcursor	local	/usr/share/icons/Adwaita/cursors/wait	system/application file	dev
+xcursor/wait	4146256	f20f0252	xcursor	local	/usr/share/icons/XCursor-Pro-Dark/cursors/wait	system/application file	dev
+xml/Locations.xml	1696501	708d9a2a	xml	local	/usr/share/libgweather-4/Locations.xml	system/application file	dev
+xml/appstream.xml	6291456	4bca9d40	xml	local	first 6 MB of /var/lib/flatpak/appstream/flathub/x86_64/active/appstream.xml	system/application file	dev
+xml/freedesktop.org.xml	2470771	b2fd94c8	xml	local	/usr/share/mime/packages/freedesktop.org.xml	system/application file	dev
+xml/language-subtag-registry.xml	1341074	31f94be8	xml	local	/usr/share/liblangtag/language-subtag-registry.xml	system/application file	holdout
+xml/launchpad-wadl.xml	1534186	b3658fbc	xml	local	/usr/lib/python3/dist-packages/launchpadlib/testing/launchpad-wadl.xml	system/application file	dev
+raw/Canon_EOS_350D_IMG_1707.CR2	10586467	680a2e66	raw	download	https://raw.pixls.us/data/Canon/EOS 350D/IMG_1707.CR2	CC0 (raw.pixls.us)	dev
+raw/Leica_M8_L1030132.DNG	10575296	2c0fe852	raw	download	https://raw.pixls.us/data/Leica/M8/L1030132.DNG	CC0 (raw.pixls.us)	dev
+raw/Nikon_D70_20170902_0047.NEF	5488179	3c10fc5b	raw	download	https://raw.pixls.us/data/Nikon/D70/20170902_0047.NEF	CC0 (raw.pixls.us)	dev
+raw/Olympus_E-410_PC309398.ORF	10288341	25d64ab2	raw	download	https://raw.pixls.us/data/Olympus/E-410/PC309398.ORF	CC0 (raw.pixls.us)	dev
+raw/Panasonic_DMC-LX3_P1010600.RW2	12354560	4fbd9754	raw	download	https://raw.pixls.us/data/Panasonic/DMC-LX3/P1010600.RW2	CC0 (raw.pixls.us)	dev
+raw/Pentax_K10D_IMGP5398.DNG	16913175	04e75d5c	raw	download	https://raw.pixls.us/data/Pentax/K10D/IMGP5398.DNG	CC0 (raw.pixls.us)	holdout
+raw/Pentax_K10D__IGP7284.PEF	9561139	8f99edbe	raw	download	https://raw.pixls.us/data/Pentax/K10D/_IGP7284.PEF	CC0 (raw.pixls.us)	dev
+raw/Sony_DSLR-A100__DSC0258.ARW	10137572	7aa10855	raw	download	https://raw.pixls.us/data/Sony/DSLR-A100/_DSC0258.ARW	CC0 (raw.pixls.us)	dev
+h264/sintel_x264_baseline_cavlc.h264	969439	ad5629e3	h264	generated	sintel_x264_baseline_cavlc.mp4 via ffmpeg (stream copy to Annex B)	CC BY 3.0 (Blender Foundation source)	dev
+h264/sintel_x264_high_cabac.h264	635625	923a4106	h264	generated	sintel_x264_high_cabac.mp4 via ffmpeg (stream copy to Annex B)	CC BY 3.0 (Blender Foundation source)	holdout
+mp4/sintel_x264_10bit_cabac.mp4	451238	c07c808f	mp4	generated	sintel trailer via ffmpeg (libx264 yuv420p10le medium)	CC BY 3.0 (Blender Foundation source)	dev
+mp4/sintel_x264_10bit_cavlc.mp4	917535	48375d9b	mp4	generated	sintel trailer via ffmpeg (libx264 yuv420p10le ultrafast)	CC BY 3.0 (Blender Foundation source)	holdout

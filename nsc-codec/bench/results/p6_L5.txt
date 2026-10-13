@@ -1,0 +1,84 @@
+file                                                        raw        new         P1    Δ%P1    Δ%cl    enc    dec rt
+audio/chopin_nocturne21.wav                            10584044    5176548    5178120   -0.03  -15.72   83.1   41.6 OK
+audio/debussy_gymnopedie.wav                            5357612    1916807    1919394   -0.13   -9.12   42.1   19.5 OK
+audio/fd_audio-test-signal.wav                           135252      88444      88399   +0.05   -4.57    1.0    0.5 OK
+audio/fd_bell.wav                                         24702      14856      14814   +0.28   -6.39    0.2    0.1 OK
+audio/fd_complete.wav                                    192186      90054      89996   +0.06  -18.40    1.4    0.7 OK
+audio/fd_dialog-warning.wav                               88130      33670      33590   +0.24  +15.25    0.6    0.3 OK
+audio/linuxmint-gdm.wav                                   23314      12387      12345   +0.34   +3.28    0.2    0.1 OK
+audio/linuxmint-login.wav                                707756     377278     377271   +0.00   -7.46    4.9    4.2 OK
+audio/linuxmint-logout.wav                               708644     396720     396740   -0.01   -4.17    4.9    4.2 OK
+audio/satie_gymnopedie2.wav                            15876044    7754308    7756820   -0.03   -4.67  123.7   61.8 OK
+deflate/art.png                                         1586255     863703    1581787  -45.40  -45.55   88.5   44.5 OK
+deflate/background.png                                  1362023     771850    1361246  -43.30  -43.33   67.3   32.6 OK
+deflate/default-testpage.pdf                             129370      22338      94905  -76.46  -77.11    3.8    2.0 OK
+deflate/design.png                                      1237565     450197    1216267  -62.99  -63.45   56.9   27.2 OK
+deflate/form_english.pdf                                 276117      26634      86309  -69.14  -72.18    8.9    4.4 OK
+deflate/form_russian.pdf                                 270308      18935      77920  -75.70  -78.34    8.4    4.3 OK
+deflate/gnu_test-amd64_jtreport-hotspot.tar.gz          2489805     346594    2453811  -85.88  -85.69  144.0   72.8 OK
+deflate/gz_changelogs.tar                               4966400    1987830    3832147  -48.13  -48.23  144.9   72.0 OK
+deflate/ipscan.jar                                      2176455     955657    2041024  -53.18  -53.42   46.3   22.0 OK
+deflate/portmaster.zip                                  1980699     793127    1742426  -54.48  -54.64   47.0   24.6 OK
+deflate/report.docx                                     1158511     655343    1158330  -43.42  -43.43   31.8   16.9 OK
+deflate/screenshot.png                                   605543     311951     602871  -48.26  -48.43   20.0   10.4 OK
+deflate/sheet.xlsx                                      2179613     864667    2119749  -59.21  -59.65   70.1   36.1 OK
+exe/git.elf                                             4066232    1179368    1281923   -8.00  -26.64   31.1   15.6 OK
+exe/libc.so.6                                           2129424     596777     619998   -3.75  -15.53   16.0    8.4 OK
+exe/python3.12.elf                                      8020928    1548155    1643328   -5.79  -26.79   57.1   29.0 OK
+exe/zlib1_x64.dll                                        137216      54355      55229   -1.58  -12.18    1.0    0.5 OK
+exe/zlib1_x86.dll                                        135694      50100      51052   -1.86  -14.34    1.1    0.5 OK
+image/flat_art.bmp                                      6220854     857956     940419   -8.77  -27.09   50.1   25.3 OK
+image/photo_gray16.pgm                                  1036817     236965     295714  -19.87  -33.34    9.2    4.5 OK
+image/photo_gray.pgm                                    2073617     455695     565490  -19.42  -28.76   16.6    8.4 OK
+image/photo.ppm                                         6220817     766743    1048178  -26.85  -39.34   52.1   26.5 OK
+image/photo_rgb24.bmp                                   6220854     766629     998026  -23.19  -45.21   52.2   25.9 OK
+image/photo_rgba32.bmp                                  8294454    1744706    2039673  -14.46  -36.67   70.7   37.2 OK
+image/photo.tga                                         6220844    1421047    1708944  -16.85  -30.38   54.6   27.9 OK
+image/photo.tif                                         6224096     599542     765503  -21.68  -45.51   52.8   26.8 OK
+image/screenshot.bmp                                    1710798     315325     468043  -32.63  -46.55   14.2    7.4 OK
+jpeg/baseline_0_jvasek_xmas_bokeh.jpg                    301974     283574     283398   +0.06   -3.19    2.4    1.2 OK
+jpeg/baseline_1_Beginner's Tutorial_Image_002.jpg        114362     105185     105119   +0.06   -2.09    0.9    0.4 OK
+jpeg/baseline_2_Beginner's Tutorial_Image_007.jpg        114490     103776     103751   +0.02   -1.96    0.8    0.4 OK
+jpeg/baseline_3_DownloadVS2010.jpg                       167558      98177      98143   +0.03   -2.00    1.2    0.6 OK
+jpeg/baseline_4_DownloadVS2019.jpg                       231800     141257     141220   +0.03   -2.32    1.7    0.8 OK
+jpeg/baseline_5_DownloadVSBuildTools.jpg                 187788     102929     102879   +0.05   -1.64    1.3    0.7 OK
+jpeg/progressive_0_jbaer_wave.jpg                        221927     206440     206405   +0.02   -3.20    1.7    0.9 OK
+jpeg/progressive_1_jleung_confetti.jpg                  1458359    1428148    1428631   -0.03   -1.78   11.4    5.8 OK
+jpeg/progressive_2_jpanchal_cubes.jpg                   1308101    1162041    1161916   +0.01   -5.03   10.3    5.4 OK
+jpeg/progressive_3_jpanchal_curves.jpg                   586034     525209     525084   +0.02   -4.21    4.8    2.3 OK
+jpeg/progressive_4_jpanchal_gold.jpg                    1535279    1263931    1263711   +0.02   -5.76   11.9    6.0 OK
+jpeg/progressive_5_jpanchal_hearts.jpg                  2489907    2160479    2160381   +0.00   -5.13   19.9   11.3 OK
+mixed/mixed.tar                                        13895680    3699372    4766801  -22.39  -35.92  203.2   98.6 OK
+mixed/nsc_src.tar                                       4505600     707083     709116   -0.29  -23.72   34.0   17.2 OK
+silesia/dickens                                        10192446    2085615    2156646   -3.29   -8.53   81.7   44.0 OK
+silesia/mozilla                                        51220480    9663118   11439657  -15.53  -27.58  321.5  168.9 OK
+silesia/mr                                              9970564    2124994    2124345   +0.03   -8.44   72.7   38.8 OK
+silesia/nci                                            33553445    1135961    1245876   -8.82  -21.62  224.0  115.0 OK
+silesia/ooffice                                         6152192    1632518    1890232  -13.63  -32.70   51.7   27.1 OK
+silesia/osdb                                           10085684    2188698    2187297   +0.06   -8.20   82.1   39.5 OK
+silesia/reymont                                         6627202     913209     919385   -0.67  -13.39   50.8   24.2 OK
+silesia/samba                                          21606400    2657629    2966672  -10.42  -28.93  168.3   92.2 OK
+silesia/sao                                             7251944    3893632    3893111   +0.01  -11.79   60.1   31.0 OK
+silesia/webster                                        41458703    5646964    5898045   -4.26  -18.67  271.2  124.3 OK
+silesia/xml                                             5345280     300391     309047   -2.80  -16.51   40.6   19.9 OK
+silesia/x-ray                                           8474240    3656630    3655964   +0.02   -5.05   71.0   37.3 OK
+table/inventory.sqlite                                  5001216    1201486    1200293   +0.10  -30.20   44.0   19.5 OK
+table/records.bin                                       5280000    1425762    1423716   +0.14  -20.76   45.2   19.9 OK
+table/sales.csv                                         4159554     609185     640387   -4.87  -33.22   30.9   15.5 OK
+text/app.log                                            4495527     284701     293497   -3.00  -37.65   31.5   18.8 OK
+text/enwik_10M.txt                                     10000000    2029722    2060376   -1.49  -12.48   86.4   42.4 OK
+text/enwik_1M.txt                                       1000000     219032     221938   -1.31  -14.32    7.3    3.7 OK
+text/python_src.py                                       133783      28136      51712  -45.59  -13.57  218.2    0.4 OK
+text/rust_src.rs                                         172358      32855      72881  -54.92  -15.38  223.3    0.5 OK
+text/tokenizer.json                                      538943      39130      39277   -0.37  -35.39    4.4    2.0 OK
+text/whitepaper.md                                        32982      10258      11751  -12.71   -4.79   69.0    0.1 OK
+[audio]                                                33697684   15861072   15867489   -0.04   -9.19  3.765 bpb
+[deflate]                                              20418664    8068826   18368792  -56.07  -56.22  3.161 bpb
+[exe]                                                  14489494    3428755    3651530   -6.10  -24.63  1.893 bpb
+[image]                                                44223151    7164608    8829990  -18.86  -36.72  1.296 bpb
+[jpeg]                                                  8717579    7581146    7580638   +0.01   -4.20  6.957 bpb
+[mixed]                                                18401280    4406455    5475917  -19.53  -34.24  1.916 bpb
+[silesia]                                             211938580   35899359   38686277   -7.20  -19.44  1.355 bpb
+[table]                                                14440770    3236433    3264396   -0.86  -26.99  1.793 bpb
+[text]                                                 16373593    2643834    2751432   -3.91  -16.71  1.292 bpb
+TOTAL                                                 382700795   88290488  104476461  -15.49  -25.53  1.846 bpb

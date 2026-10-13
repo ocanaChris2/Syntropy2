@@ -1,0 +1,19 @@
+== all files: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+apk        1     5.24   36.23%    34.32%   18.83%   18.79%        -               0.21
+font      10    19.65   63.32%    63.20%   57.43%   55.03%        -               0.26
+ico        4     0.23   73.71%    59.27%   57.65%   57.79%        -               0.03
+pak        3     0.88   69.51%    59.86%   52.24%   49.97%        -               0.03
+pdf        5     1.12   85.29%    78.99%   45.92%   45.11%        -               0.06
+TOTAL     23    27.12   59.28%    58.13%   49.33%   47.48%
+
+== holdout only: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+font       2     0.79   59.39%    59.25%   54.59%   50.99%        -               0.28
+TOTAL      2     0.79   59.39%    59.25%   54.59%   50.99%
+
+files more than 0.3% larger than under nsc 0.3.1: 0
+files with a block coded a second time (a stream or bytes cost more modelled than not): 2
+  pak/chrome_100_percent.pak
+  pak/chrome_200_percent.pak
+roundtrip: 23/23 OK

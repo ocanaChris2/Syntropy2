@@ -1,0 +1,16 @@
+[package]
+name = "nsc-codec"
+version = "0.4.0"
+edition = "2024"
+
+# The installed command is `nsc`; `cargo build --release` produces target/release/nsc.
+[[bin]]
+name = "nsc"
+path = "src/main.rs"
+
+[dependencies]
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1

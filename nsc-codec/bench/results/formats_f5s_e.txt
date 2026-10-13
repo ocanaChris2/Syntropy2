@@ -1,0 +1,17 @@
+== all files: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+gif        9     9.95    6.11%     6.08%    4.31%    4.16%        -               0.27
+iso        1    53.14   33.01%    32.58%   28.27%   27.17%        -               0.40
+tiff       6     9.31   45.31%    32.41%   25.00%   22.86%        -               0.20
+webp      12     7.23    0.39%     0.30%    0.29%    0.32%        -               2.43
+TOTAL     28    79.63   28.13%    26.32%   22.35%   21.36%
+
+== holdout only: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+gif        3     6.39    5.53%     5.50%    3.65%    3.49%        -               0.28
+tiff       2     3.69   70.87%    70.73%   57.28%   52.59%        -               0.27
+webp       3     1.09    0.08%     0.07%   -0.02%   -0.01%        -               0.93
+TOTAL      8    11.17   26.59%    26.52%   21.01%   19.37%
+
+files more than 0.3% larger than under nsc 0.3.1: 0
+roundtrip: 28/28 OK

@@ -1,0 +1,12 @@
+== all files: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+gif        9     9.95   63.88%     6.08%    4.31%    4.16%  42.25%  paq8px       0.23
+TOTAL      9     9.95   63.88%     6.08%    4.31%    4.16%
+
+== holdout only: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+gif        3     6.39   64.97%     5.50%    3.65%    3.49%  37.00%  paq8px       0.29
+TOTAL      3     6.39   64.97%     5.50%    3.65%    3.49%
+
+files more than 0.3% larger than under nsc 0.3.1: 0
+roundtrip: 9/9 OK

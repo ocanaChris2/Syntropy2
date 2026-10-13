@@ -1,0 +1,19 @@
+== all files: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+audio     10    33.70   70.89%    70.89%   29.80%   17.44%        -               2.89
+deflate    13    20.42   60.68%    60.68%    9.51%    9.57%        -               0.06
+exe        5    14.49   76.34%    76.34%   67.58%   65.16%        -               0.27
+image      9    44.22   83.80%    83.80%   71.88%   67.37%        -               0.29
+jpeg      12     8.72   35.15%    35.15%    8.61%    8.55%        -               0.35
+mixed      2    18.40   77.22%    77.22%   63.55%   60.13%        -               0.19
+silesia    12   211.94   83.09%    83.09%   76.98%   74.98%        -               0.27
+table      3    14.44   77.59%    77.59%   67.53%   62.81%        -               0.23
+text       7    16.37   83.86%    83.86%   77.31%   76.52%        -               0.22
+TOTAL     73   382.70   79.10%    79.10%   65.73%   62.55%
+
+== holdout only: level 5, percent saved (higher is better)
+format files       MB  nsc new nsc 0.3.1    xz -9 zstd -19   oracle               MB/s
+TOTAL      0     0.00        -         -        -        -
+
+files more than 0.3% larger than under nsc 0.3.1: 0
+roundtrip: 73/73 OK

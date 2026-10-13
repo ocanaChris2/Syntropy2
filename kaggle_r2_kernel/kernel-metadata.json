@@ -1,0 +1,13 @@
+{
+  "id": "christianocanab/syntropy2-r2-train",
+  "title": "syntropy2-r2-train",
+  "code_file": "neuro_symbolic_compressor_r2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["christianocanab/syntropy2-r2"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

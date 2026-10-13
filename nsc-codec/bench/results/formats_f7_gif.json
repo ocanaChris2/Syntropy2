@@ -1,0 +1,155 @@
+[
+ {
+  "path": "gif/Newtons_cradle_animation_book_2.gif",
+  "bytes": 308156,
+  "crc": "2c8a5f31",
+  "fmt": "gif",
+  "split": "dev",
+  "new": 165289,
+  "secs": 1.0612404346466064,
+  "ok": true,
+  "xz": 303304,
+  "zstd": 302680,
+  "old": 298156,
+  "oracle": [
+   "paq8px",
+   171672
+  ]
+ },
+ {
+  "path": "gif/Rotating_earth_(large).gif",
+  "bytes": 1001718,
+  "crc": "e14e453f",
+  "fmt": "gif",
+  "split": "holdout",
+  "new": 440017,
+  "secs": 2.5228097438812256,
+  "ok": true,
+  "xz": 999220,
+  "zstd": 999561,
+  "old": 981646,
+  "oracle": [
+   "paq8px",
+   540524
+  ]
+ },
+ {
+  "path": "gif/bigapple.gif",
+  "bytes": 35287,
+  "crc": "452dd54b",
+  "fmt": "gif",
+  "split": "dev",
+  "new": 17702,
+  "secs": 0.09193062782287598,
+  "ok": true,
+  "xz": 35196,
+  "zstd": 35140,
+  "old": 34348,
+  "oracle": [
+   "paq8px",
+   16791
+  ]
+ },
+ {
+  "path": "gif/demo.gif",
+  "bytes": 4631886,
+  "crc": "b9781f4a",
+  "fmt": "gif",
+  "split": "holdout",
+  "new": 1391453,
+  "secs": 17.4429452419281,
+  "ok": true,
+  "xz": 4403952,
+  "zstd": 4414073,
+  "old": 4320613,
+  "oracle": [
+   "paq8px",
+   3104341
+  ]
+ },
+ {
+  "path": "gif/flowers.gif",
+  "bytes": 9333,
+  "crc": "fad24d32",
+  "fmt": "gif",
+  "split": "dev",
+  "new": 7210,
+  "secs": 0.06339621543884277,
+  "ok": true,
+  "xz": 9120,
+  "zstd": 9061,
+  "old": 8698,
+  "oracle": [
+   "paq8px",
+   6864
+  ]
+ },
+ {
+  "path": "gif/incrementalConstraints.gif",
+  "bytes": 3175063,
+  "crc": "856c2186",
+  "fmt": "gif",
+  "split": "dev",
+  "new": 1151071,
+  "secs": 19.589202880859375,
+  "ok": true,
+  "xz": 2984296,
+  "zstd": 2989694,
+  "old": 2933656,
+  "oracle": [
+   "paq8px",
+   1514019
+  ]
+ },
+ {
+  "path": "gif/marchingants.gif",
+  "bytes": 10298,
+  "crc": "711c8d59",
+  "fmt": "gif",
+  "split": "dev",
+  "new": 5878,
+  "secs": 0.06640219688415527,
+  "ok": true,
+  "xz": 10360,
+  "zstd": 10311,
+  "old": 10211,
+  "oracle": [
+   "paq8px",
+   4547
+  ]
+ },
+ {
+  "path": "gif/njplot.gif",
+  "bytes": 24084,
+  "crc": "d0d497e8",
+  "fmt": "gif",
+  "split": "dev",
+  "new": 9784,
+  "secs": 0.14687037467956543,
+  "ok": true,
+  "xz": 24144,
+  "zstd": 24097,
+  "old": 23634,
+  "oracle": [
+   "paq8px",
+   7749
+  ]
+ },
+ {
+  "path": "gif/sintel_anim.gif",
+  "bytes": 751999,
+  "crc": "b95401fa",
+  "fmt": "gif",
+  "split": "holdout",
+  "new": 405146,
+  "secs": 2.0704567432403564,
+  "ok": true,
+  "xz": 749584,
+  "zstd": 748947,
+  "old": 732212,
+  "oracle": [
+   "paq8px",
+   378087
+  ]
+ }
+]
